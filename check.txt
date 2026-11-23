@@ -1,1 +1,5 @@
 conflict
+<<<<<<< HEAD
+=======
+
+>>>>>>> 59d601e (check file added)
